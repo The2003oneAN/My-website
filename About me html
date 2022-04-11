@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Not The First website but still</title>
+</head>
+<body>
+	<h1>It is what it is</h1>
+	<hr>
+	<br>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</body>
+<body>
+	<ol>
+		<li> Must learn more maths for computer science </li>
+		<li> Also Programing Language </li>
+	</ol>
+</body>
+<hr>
+<br>
+<body>
+	<h2>Btw its kind of abt me so here is my fav music video</h2>
+	<br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/T1JogArNo0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<h3>sorry if it wasnt that great but this is first me understanding how tags works so this is the best i can do</h3>
+</body>
+</html>
